@@ -41,6 +41,4 @@
 - **utils** -- helpers
 
 ## API DOC
-Use domain https://quest-idn.adetxt.com if you want to try the API
-
 https://documenter.getpostman.com/view/18749474/2s8YYPHfs7
